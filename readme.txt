@@ -1,4 +1,4 @@
-ABOUT:
+﻿ABOUT:
 The enclosed files belong to the eVent IST ventilator project, inspired by the MIT E-Vent project (see https://e-vent.mit.edu/). We developed the ventilator system using technical documentation of MIT, infrastructure of IST AUSTIRA and consulting of three medical practitioners. We developed and built with great care and focus on stability and safety, still the device is not certified and not built according to all applicable regulations. Please note that this is work in progress and has never been tested on a human. The goal of the eVent IST ventilator project is to provide a simple and fast to replicate system for emergency response, and was created in reaction to the COVID-19 crisis early 2020. Furthermore, its intention is not to replace common ventilator systems, but to bridge a situation where not enough conventional machines are available.
 
 ATTRIBUTION:
@@ -9,7 +9,7 @@ FOLDERS:
 
 	Folder name	Description							Origin
 	------------------------------------------------------------------------------------------------
-	Electronics	contains files for the electronic parts of the ventilator	mostly MIT E-Vent
+	Electronics	contains files for the electronic parts of the ventilator	IST AUSTRIA
 	License		contains relevant license files					https://opensource.org
 	Mechanical	contains files for the mechanical parts of the ventilator	mostly MIT E-Vent
 	Pictures	contains pictures of the machine				IST AUSTRIA
